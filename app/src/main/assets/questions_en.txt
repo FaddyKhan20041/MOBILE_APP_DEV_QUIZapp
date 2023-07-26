@@ -1,0 +1,30 @@
+Is the Earth the third planet from the Sun? | true
+Does DNA stand for Deoxyribonucleic acid? | true
+Is the Great Wall of China visible from space? | false
+Does the moon have its own light source? | false
+Does the human body have 206 bones? | true
+Is gravity a force that pulls objects towards each other? | true
+Was the Statue of Liberty a gift from France to the United States? | true
+Did Alexander Graham Bell invent the telephone? | true
+Is oxygen the most abundant element in the Earth's atmosphere? | true
+Is the Pacific Ocean the largest ocean on Earth? | true
+Is the Mona Lisa displayed in the Louvre Museum? | true
+Is Mount Everest the highest peak in the world? | true
+Does the human brain have four lobes: frontal, parietal, temporal, and occipital? | true
+Is the chemical symbol for gold Au? | true
+Was the novel "To Kill a Mockingbird" written by Harper Lee? | true
+Does water boil at 100 degrees Celsius at sea level? | true
+Is the Amazon rainforest the largest tropical rainforest in the world? | true
+Do bees communicate through a dance known as the waggle dance? | true
+Is the Eiffel Tower located in London? | false
+Does the human heart have four chambers? | true
+Is the currency of Japan the yen? | true
+Did Albert Einstein develop the theory of relativity? | true
+Is Mount Kilimanjaro located in Africa? | true
+Did Vincent van Gogh cut off his own ear? | true
+Is the Statue of Liberty green due to oxidation? | true
+Is photosynthesis the process by which plants convert sunlight into energy? | true
+Is the Sahara Desert the largest hot desert in the world? | true
+Did Marie Curie discover radium and polonium? | true
+Does the human skeleton have a total of 206 bones? | true
+Is the planet Mars often called the "Red Planet"? | true

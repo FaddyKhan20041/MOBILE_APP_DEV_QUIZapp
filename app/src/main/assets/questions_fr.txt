@@ -1,0 +1,30 @@
+Est-ce que la Terre est la troisième planète à partir du Soleil ? | true
+Est-ce que l'ADN signifie acide désoxyribonucléique ? | true
+Est-ce que la Grande Muraille de Chine est visible depuis l'espace ? | false
+Est-ce que la lune a sa propre source de lumière ? | false
+Est-ce que le corps humain a 206 os ? | true
+Est-ce que la gravité est une force qui attire les objets les uns vers les autres ? | true
+Est-ce que la Statue de la Liberté était un cadeau de la France aux États-Unis ? | true
+Est-ce qu'Alexander Graham Bell a inventé le téléphone ? | true
+Est-ce que l'oxygène est l'élément le plus abondant dans l'atmosphère terrestre ? | true
+Est-ce que l'océan Pacifique est le plus grand océan sur Terre ? | true
+Est-ce que la Joconde est exposée au musée du Louvre ? | true
+Est-ce que le mont Everest est le sommet le plus haut du monde ? | true
+Est-ce que le cerveau humain a quatre lobes : frontal, pariétal, temporal et occipital ? | true
+Est-ce que le symbole chimique de l'or est Au ? | true
+Est-ce que le roman "Ne tirez pas sur l'oiseau moqueur" a été écrit par Harper Lee ? | true
+Est-ce que l'eau bout à 100 degrés Celsius au niveau de la mer ? | true
+Est-ce que la forêt amazonienne est la plus grande forêt tropicale du monde ? | true
+Est-ce que les abeilles communiquent à travers une danse appelée la danse frétillante ? | true
+Est-ce que la Tour Eiffel se trouve à Londres ? | false
+Est-ce que le cœur humain a quatre cavités ? | true
+Est-ce que la monnaie du Japon est le yen ? | true
+Est-ce qu'Albert Einstein a développé la théorie de la relativité ? | true
+Est-ce que le mont Kilimandjaro se trouve en Afrique ? | true
+Est-ce que Vincent van Gogh s'est coupé l'oreille ? | true
+Est-ce que la Statue de la Liberté est verte en raison de l'oxydation ? | true
+Est-ce que la photosynthèse est le processus par lequel les plantes convertissent la lumière du soleil en énergie ? | true
+Est-ce que le désert du Sahara est le plus grand désert chaud du monde ? | true
+Est-ce que Marie Curie a découvert le radium et le polonium ? | true
+Est-ce que le squelette humain a un total de 206 os ? | true
+Est-ce que la planète Mars est souvent appelée la "Planète rouge" ? | true
